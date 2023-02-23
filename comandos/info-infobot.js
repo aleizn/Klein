@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 〙 ═
+╠═〘 𝐊𝐥𝐞𝐢𝐧 𝐁𝐨𝐭𝐃 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],
